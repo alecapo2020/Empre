@@ -174,3 +174,17 @@ body{
     font-weight: bold;
     color: #000000;
   }
+
+  .title{
+    color: var(--blue);
+  }
+  .first-container{
+    background-color: var(--gray-purple);
+  }
+  .card{
+    border: none;
+    background-color: var(--gray-purple);
+  }
+  .second-container{
+    background-color: var(--gray-purple);
+  }
